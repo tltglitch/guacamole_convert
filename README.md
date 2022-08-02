@@ -15,7 +15,7 @@ Installation requirements:
 
 
 
-The script will generate a log file after first run. This log file keeps track of converted files.
+The script will generate a log file named "convert.log" in thesame directory the script is running from after first run. This log file keeps track of converted files.
 
 
 #Enjoy
