@@ -6,7 +6,7 @@ Guacamole recorded videos are raw files that cannot bee played until converted t
 
 Installation requirements:
 
-1. Download the script using 
+1. Download the script using -> https://github.com/tltglitch/guacamole_convert.git
 2. Make script executable using command: -> chmod +x guac_convert.sh
 3. replace recording path with you path to your recordings.
 4. run script -> ./guac_convert.sh
